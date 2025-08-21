@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Musicfy 🎵
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Musicfy es un **reproductor de música de escritorio** inspirado en Spotify, desarrollado con **React** y **Electron**. Permite reproducir música de manera local con una interfaz moderna y funcional, ideal para usuarios que quieren disfrutar de su música sin depender de servicios en línea.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌟 Características
 
-### `npm start`
+- Reproducción de música local (archivos en tu computadora).  
+- Interfaz intuitiva tipo Spotify.  
+- Gestión de playlists y canciones.  
+- Multiplataforma: compatible con Windows, Mac y Linux.  
+- Desarrollado con tecnologías modernas (React + Electron).  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Tecnologías
 
-### `npm test`
+- **React** – para la interfaz de usuario.  
+- **Electron** – para empaquetar la app como escritorio multiplataforma.  
+- **Node.js** – backend local de la app.  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🚀 Instalación y ejecución
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Clonar el repositorio:**
+```bash
+git clone git@github.com:antojkhass/musicfy.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Entrar en la carpeta del proyecto:
+cd musicfy
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+Instalar dependencias:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Ejecutar la aplicación en modo desarrollo:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+npm start
 
-## Learn More
+Crear un build para producción (opcional):
+npm run build
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+📂 Estructura del proyecto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+/src – Código fuente de la aplicación (React + Electron).
 
-### Analyzing the Bundle Size
+/public – Archivos estáticos.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+/dist – Archivos compilados para distribución.
 
-### Making a Progressive Web App
+/node_modules – Dependencias de Node.js (no subir al repositorio).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+🎯 Contacto
 
-### Deployment
+Email: antoijkhass@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+GitHub: https://github.com/antojkhass/musicfy
