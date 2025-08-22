@@ -1,5 +1,9 @@
 # Musicfy 🎵
 
+## Estado del proyecto
+Este proyecto se encuentra actualmente **en proceso de desarrollo**.  
+Algunas funciones pueden no estar completas o pueden cambiar en futuras versiones.
+
 Musicfy es un **reproductor de música de escritorio** inspirado en Spotify, desarrollado con **React** y **Electron**. Permite reproducir música de manera local con una interfaz moderna y funcional, ideal para usuarios que quieren disfrutar de su música sin depender de servicios en línea.
 
 ---
